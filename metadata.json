@@ -1,0 +1,5 @@
+{
+  "name": "Live Odds Vergelijker",
+  "description": "Een webapplicatie die live sportweddenschappen ophaalt en weergeeft van verschillende bookmakers, zodat gebruikers de beste odds voor aankomende wedstrijden kunnen vergelijken en vinden.",
+  "requestFramePermissions": []
+}
